@@ -3,5 +3,6 @@
  */
 public abstract class VerificationStage {
 
+    abstract void dummy();
 
 }
